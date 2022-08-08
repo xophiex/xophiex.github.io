@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/posts/write-anything/</loc>
-    <lastmod>2022-08-08T10:43:10+05:30</lastmod>
-  </url><url>
     <loc>/posts/</loc>
-    <lastmod>2022-08-08T10:43:10+05:30</lastmod>
+    <lastmod>2022-08-08T11:32:30+05:30</lastmod>
+  </url><url>
+    <loc>/posts/who-am-i/</loc>
+    <lastmod>2022-08-08T11:32:30+05:30</lastmod>
   </url><url>
     <loc>/</loc>
+    <lastmod>2022-08-08T11:32:30+05:30</lastmod>
+  </url><url>
+    <loc>/posts/write-anything/</loc>
     <lastmod>2022-08-08T10:43:10+05:30</lastmod>
   </url><url>
     <loc>/posts/welcome-to-the-moon/</loc>
