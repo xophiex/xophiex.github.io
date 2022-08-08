@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Xophie Moon</title>
-    <link>/</link>
-    <description>Recent content on Xophie Moon</description>
+    <title>Posts on Xophie Moon</title>
+    <link>/posts/</link>
+    <description>Recent content in Posts on Xophie Moon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 08 Aug 2022 08:47:02 +0530</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 08 Aug 2022 08:47:02 +0530</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Welcome to the Moon</title>
       <link>/posts/welcome-to-the-moon/</link>
