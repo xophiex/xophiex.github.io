@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Xophie Moon</title>
-    <link>/</link>
+    <link>https://xophiex.github.io/</link>
     <description>Recent content on Xophie Moon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 08 Aug 2022 11:32:30 +0530</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 08 Aug 2022 11:32:30 +0530</lastBuildDate><atom:link href="https://xophiex.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Who Am I</title>
-      <link>/posts/who-am-i/</link>
+      <link>https://xophiex.github.io/posts/who-am-i/</link>
       <pubDate>Mon, 08 Aug 2022 11:32:30 +0530</pubDate>
       
-      <guid>/posts/who-am-i/</guid>
+      <guid>https://xophiex.github.io/posts/who-am-i/</guid>
       <description>I want to be Xophie Moon so badly. I feel like this is my identity but I cannot use it in my life because I haven&amp;rsquo;t come out yet. But I mustn&amp;rsquo;t fall into self pity. My dreams are close at hand and why shouldn&amp;rsquo;t I be Xophie Moon! Who determines who I am but me?</description>
     </item>
     
     <item>
       <title>Let&#39;s Just Write</title>
-      <link>/posts/write-anything/</link>
+      <link>https://xophiex.github.io/posts/write-anything/</link>
       <pubDate>Mon, 08 Aug 2022 10:43:10 +0530</pubDate>
       
-      <guid>/posts/write-anything/</guid>
+      <guid>https://xophiex.github.io/posts/write-anything/</guid>
       <description>I think I&amp;rsquo;ll just keep on writing whatever comes to my mind. Right now it&amp;rsquo;s that I am super casual about writing here.</description>
     </item>
     
     <item>
       <title>Welcome to the Moon</title>
-      <link>/posts/welcome-to-the-moon/</link>
+      <link>https://xophiex.github.io/posts/welcome-to-the-moon/</link>
       <pubDate>Mon, 08 Aug 2022 08:47:02 +0530</pubDate>
       
-      <guid>/posts/welcome-to-the-moon/</guid>
+      <guid>https://xophiex.github.io/posts/welcome-to-the-moon/</guid>
       <description>Hello! Welcome to my beautiful new website!
 Have a nice day!</description>
     </item>
