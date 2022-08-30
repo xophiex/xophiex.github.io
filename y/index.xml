@@ -6,7 +6,16 @@
     <description>Recent content on Xophie Moon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 28 Aug 2022 22:42:39 +0530</lastBuildDate><atom:link href="https://xophie.is-very.ga/y/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 30 Aug 2022 10:04:25 +0530</lastBuildDate><atom:link href="https://xophie.is-very.ga/y/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Wireguard VPN</title>
+      <link>https://xophie.is-very.ga/y/posts/wireguard-vpn/</link>
+      <pubDate>Tue, 30 Aug 2022 10:04:25 +0530</pubDate>
+      
+      <guid>https://xophie.is-very.ga/y/posts/wireguard-vpn/</guid>
+      <description>Try wireguard vpn. It works great and is simple to set up. It&amp;rsquo;s fast as well.</description>
+    </item>
+    
     <item>
       <title>Started HRT</title>
       <link>https://xophie.is-very.ga/y/posts/started-hrt/</link>
